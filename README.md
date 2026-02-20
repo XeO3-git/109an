@@ -1,6 +1,5 @@
 Hi! I am Logan. I am interested in embedded development, and low level programming.
-
-I know Java, Python, C, and a little Rust. 
+I also love tinkering with my Linux desktop and homelab!
 
 
 
